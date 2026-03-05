@@ -4,7 +4,7 @@
 <img width="838" height="349" alt="image" src="https://github.com/user-attachments/assets/c60639af-3297-4e72-818b-25a4166040d0" />  
 
   
-2025년 2월달 쯤에 제작한 것이여서 최신 Chrome에서는 돌아가지 않을 수 있습니다.  
+2025년에 제작한 것이여서 최신 Chrome에서는 돌아가지 않을 수 있습니다.  
 
 그래도 Manifest V3 준수했으니까 대부분의 경우 돌아갈 것입니다.  
 
