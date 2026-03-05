@@ -1,0 +1,7 @@
+/* Google 검색창 제안 드롭다운 숨김 */
+[role="listbox"],
+.G43f7e, .UUbT9, .aajZCb, .OBMEnb,
+.sbct, .sbsb_a, .sbfl_b {
+  display: none !important;
+  visibility: hidden !important;
+}

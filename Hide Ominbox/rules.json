@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "regexFilter": "https?://([a-z0-9-]+\\.)?(google\\.(com|co\\.kr)|suggestqueries\\.google\\.com)/complete/.*",
+      "resourceTypes": ["xmlhttprequest"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "clients1.google.com/complete",
+      "resourceTypes": ["xmlhttprequest"]
+    }
+  }
+]
