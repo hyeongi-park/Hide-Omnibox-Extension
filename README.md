@@ -1,5 +1,5 @@
 # 소개
-구글 연관검색어(아래사진) 뜨는 게 별로 필요도 없는데 웹페이지 한 부분을 차지하고 있는 것 같아서 이를 제거할 수 있는 Chrome Extension을 **제가 쓰려고** 만들었습니다.  
+구글 연관검색어(아래사진) 뜨는 게 별로 필요도 없는데 웹페이지 한 부분을 차지하고 있는 것 같아서 이를 제거할 수 있는 Chrome Extension을 제가 쓰려고 만들었습니다.  
   
 <img width="838" height="349" alt="image" src="https://github.com/user-attachments/assets/c60639af-3297-4e72-818b-25a4166040d0" />  
 
